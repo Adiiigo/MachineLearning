@@ -2,8 +2,8 @@
 Machine Leaning Installation Steps and Steps to use Octave
 
 Command to install Octave on Ubuntu:
-Markup : 1.sudo apt-get update
-         2.sudo apt-get install octave
+ 1.sudo apt-get update
+ 2.sudo apt-get install octave
 
 
 YouTube Link: 
