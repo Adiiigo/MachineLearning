@@ -1,3 +1,4 @@
 - [Formatting File in Github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - ['hold' command](https://octave.sourceforge.io/octave/function/hold.html)
 - [Arithmetic Operator](https://octave.org/doc/v4.0.0/Arithmetic-Ops.html)
+- ['repmat' command](https://octave.sourceforge.io/octave/function/repmat.html)
