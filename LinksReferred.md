@@ -2,3 +2,8 @@
 - ['hold' command](https://octave.sourceforge.io/octave/function/hold.html)
 - [Arithmetic Operator](https://octave.org/doc/v4.0.0/Arithmetic-Ops.html)
 - ['repmat' command](https://octave.sourceforge.io/octave/function/repmat.html)
+- HandWritten Digit Classification
+  - [Papers](https://scholar.google.co.in/scholar?q=handwritten+digit+classification&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+  - [Python Code and Explanation](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+  - [C++](https://www.learnopencv.com/handwritten-digits-classification-an-opencv-c-python-tutorial/)
+  - [Kaggle](https://www.kaggle.com/rahulbeniwal/handwritten-digit-recognition)
